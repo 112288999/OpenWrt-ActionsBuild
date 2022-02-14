@@ -11,7 +11,7 @@ on:
         type: choice
         description: '路由器资源目录'
         options:
-          - "XIAOMI-4A_100M"
+          - "P&W 619AC"
           - "XIAOMI-4A_GIGABit"
       repo_branch:
         type: choice
